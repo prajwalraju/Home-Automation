@@ -1,0 +1,13 @@
+{
+  "title":"",
+  "description":"",
+  "status": "SUCCESSFUL",
+  "data": {
+    "text": "Just booked my Ola Electric Scooter! Book yours now! olaelectric.com",
+    "share_service": {
+      "whatsapp": true,
+      "instagram": true,
+      "twitter": true
+    }
+  }
+}
