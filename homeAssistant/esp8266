@@ -1,0 +1,3 @@
+-- hold the mode button while pluging in the esp once connected the botton can e let go 
+-- onboard red led is for power and blue led is directly connected to the tx pin GPIO-01 and can be controlled normally
+
